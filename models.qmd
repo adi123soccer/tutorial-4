@@ -1,0 +1,17 @@
+---
+title: "Models"
+author: "Aditya Narayan"
+format: html
+execute:
+  echo: false
+---
+```{r}
+#| label: setup
+#| message: false
+library(tidyverse)
+```
+
+```{r}
+"We looked at polling results for Biden and why validity does not hold for elections. We seek to answer the proportions of polls for biden."
+```
+
